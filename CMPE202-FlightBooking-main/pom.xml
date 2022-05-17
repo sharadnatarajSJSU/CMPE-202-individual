@@ -6,7 +6,7 @@
 	<artifactId>FlightBookingApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>FlightBookingApp</name>
-	<description>CMPE 202 Individual project - Author - Shivani</description>
+	<description>CMPE 202 Individual project - Author - Sharad</description>
 
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
